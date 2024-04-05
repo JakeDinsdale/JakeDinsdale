@@ -1,5 +1,8 @@
 ### Hi there, Im Jake 👋
 
+#### I'm currently doing a Hyperion Dev Coding course
+
+
 <!--
 **JakeDinsdale/JakeDinsdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
