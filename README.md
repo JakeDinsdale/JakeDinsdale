@@ -1,6 +1,6 @@
 ### Hi there, Im Jake 👋
 
-#### I'm currently doing a Hyperion Dev Coding course
+#### I'm currently doing a Hyperion Dev Coding course, this should be a more interesting place soon!
 
 
 <!--
