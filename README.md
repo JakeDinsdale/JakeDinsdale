@@ -1,10 +1,7 @@
 ### Hi there, Im Jake 👋
 
-#### I'm currently doing a Hyperion Dev Coding course, this should be a more interesting place soon!
+#### This is a place for all my projects, currently there isn't too much going on here
 
-#### While you wait, heres a picture of a dog: 
-
-![A picture of a dog. Isn't he cute?](https://repository-images.githubusercontent.com/296744635/39ba6700-082d-11eb-98b8-cb29fb7369c0)
 
 
 
